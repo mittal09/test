@@ -6,4 +6,6 @@
 	echo "edit for branch_new by Lp";
 	
 	echo "task 1";
+	
+	echo "task 2";
 ?>
